@@ -1,0 +1,39 @@
+#me{
+    margin-top: 70px;
+    padding: 5% 0 5% 0; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#second-column img{
+    margin-bottom: 2%;
+    width: 350px;
+    border-radius: 100%;
+}
+
+#second-column{
+    width: 30%;  
+    margin-left: 10%;
+    text-align: center; 
+}
+
+@media only screen and (max-width: 1000px){
+    #me{
+        flex-direction: column;
+    }
+
+    #second-column{
+        width: 90%;
+        margin:0;
+    }
+
+}
+
+@media only screen and (max-width: 400px){
+    #second-column img{
+        width: 100%;
+    }
+}

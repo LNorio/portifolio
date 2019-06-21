@@ -1,0 +1,44 @@
+#skill{
+    padding: 5% 0 5% 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url(../../assets/images/SkillBack.jpg);
+    color: #fafafa;
+    text-align: center;
+}
+
+#skill p{
+    margin-bottom: 2%;
+}
+
+#skill ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#skill ul li{
+    cursor: pointer;
+    display: inline;
+    margin: 5% 5% 0 0;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(41, 41, 41, 0.7);
+    transition: all 0.7s;
+    border-radius: 10%;
+}
+
+#skill ul li:hover{
+    background-color: #fafafa;
+    color: black;
+}
+
+@media only screen and (max-width: 1000px){
+    #skill p{
+        padding: 1%;
+    }
+}
+

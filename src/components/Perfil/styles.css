@@ -1,0 +1,33 @@
+#perfil{
+    margin-right: 20%;
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 30%; 
+}
+
+#perfil h1{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+#perfil h3{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
+
+@media only screen and (max-width: 1000px){
+    #perfil{
+        width: 90%;
+        margin: 0;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    #perfil h1{
+        font-size: 2rem;
+    } 
+}
+

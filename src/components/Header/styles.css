@@ -1,0 +1,48 @@
+#header{
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+}
+
+#header ul{
+    list-style: none;
+    padding: 0 10% 0 10%;
+    width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;   
+}
+
+#header ul li{
+    display: inline;
+}
+
+#header ul li a{
+    font-size: 1.5em;
+    color: #fafafa;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+#header ul li a:hover{
+    border-bottom: 2px solid #fafafa;
+    border-radius: 2px;
+}
+
+@media only screen and (max-width: 900px){
+    #header ul li a{
+        font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    #header ul li a{
+        font-size: 1rem;
+    }
+}
