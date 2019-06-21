@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.97de4345.chunk.css",
+    "main.js": "/portifolio/static/js/main.f807467c.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.f807467c.chunk.js.map",
+    "runtime~main.js": "/portifolio/static/js/runtime~main.e9cc7322.js",
+    "runtime~main.js.map": "/portifolio/static/js/runtime~main.e9cc7322.js.map",
+    "static/js/2.4cc8969d.chunk.js": "/portifolio/static/js/2.4cc8969d.chunk.js",
+    "static/js/2.4cc8969d.chunk.js.map": "/portifolio/static/js/2.4cc8969d.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "precache-manifest.578c22aab1423935e45e3f4abfe16a12.js": "/portifolio/precache-manifest.578c22aab1423935e45e3f4abfe16a12.js",
+    "service-worker.js": "/portifolio/service-worker.js",
+    "static/css/main.97de4345.chunk.css.map": "/portifolio/static/css/main.97de4345.chunk.css.map",
+    "static/media/Curriculo.pdf": "/portifolio/static/media/Curriculo.f0d85339.pdf",
+    "static/media/E3-2019.jpg": "/portifolio/static/media/E3-2019.48b962d5.jpg",
+    "static/media/Geovanna.jpg": "/portifolio/static/media/Geovanna.8f1a518f.jpg",
+    "static/media/Google.jpg": "/portifolio/static/media/Google.a062e31f.jpg",
+    "static/media/MyPhoto.jpg": "/portifolio/static/media/MyPhoto.e68bb722.jpg",
+    "static/media/SODM.jpg": "/portifolio/static/media/SODM.ef436697.jpg",
+    "static/media/Scarlett.jpg": "/portifolio/static/media/Scarlett.fcdb090f.jpg",
+    "static/media/styles.css": "/portifolio/static/media/SkillBack.64e7b57d.jpg"
+  }
+}
