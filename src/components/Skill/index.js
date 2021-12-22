@@ -24,6 +24,9 @@ const Skill = () => {
                 <li>
                     SQL
                 </li>
+                <li>
+                    Angular
+                </li>
             </ul>
         </section>
     )
